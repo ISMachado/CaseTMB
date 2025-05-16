@@ -142,3 +142,4 @@ C:\Users\Admin\OneDrive\Documentos\CaseTMB\OrderManagementSystem.API\bin\Debug\n
 C:\Users\Admin\OneDrive\Documentos\CaseTMB\OrderManagementSystem.API\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
 C:\Users\Admin\OneDrive\Documentos\CaseTMB\OrderManagementSystem.API\bin\Debug\net9.0\appsettings.example.json
 C:\Users\Admin\OneDrive\Documentos\CaseTMB\OrderManagementSystem.API\obj\Debug\net9.0\OrderManagementSystem.API.sourcelink.json
+C:\Users\Admin\OneDrive\Documentos\CaseTMB\OrderManagementSystem.API\bin\Debug\net9.0\appsettings.json
