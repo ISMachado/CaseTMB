@@ -1,8 +1,0 @@
-0c208ae9181e5e5717e47ec1bd59368aebc6066e,DELETE,regular-file,OrderManagementSystem.API/appsettings.Development.json,119,
-c1f767ffee551cd86b75196e342645753aa84143,DELETE,regular-file,OrderManagementSystem.API/appsettings.example.json,468,
-0c208ae9181e5e5717e47ec1bd59368aebc6066e,DELETE,regular-file,OrderManagementSystem.API/bin/Debug/net9.0/appsettings.Development.json,119,
-98c765d5f6602a7f8929e8a613084cdd3f0e3f62,DELETE,regular-file,OrderManagementSystem.API/bin/Debug/net9.0/appsettings.example.json,501,
-b2dcdb67421cdf46236defda1c6fbf1d9eead5ee,DELETE,regular-file,OrderManagementSystem.Worker/appsettings.Development.json,129,
-b2dcdb67421cdf46236defda1c6fbf1d9eead5ee,DELETE,regular-file,OrderManagementSystem.Worker/appsettings.json,129,
-b2dcdb67421cdf46236defda1c6fbf1d9eead5ee,DELETE,regular-file,OrderManagementSystem.Worker/bin/Debug/net9.0/appsettings.Development.json,129,
-b2dcdb67421cdf46236defda1c6fbf1d9eead5ee,DELETE,regular-file,OrderManagementSystem.Worker/bin/Debug/net9.0/appsettings.json,129,
